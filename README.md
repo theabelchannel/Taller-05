@@ -13,3 +13,8 @@ https://lucid.app/lucidchart/1c9cd35c-f558-43af-8a94-a858e843cb25/edit?viewport_
 ## Diagrama de secuencia 1
 
 ![Diagrama de secuencia](https://github.com/user-attachments/assets/61f68852-08c0-464d-af55-47d6eb7d166b)
+
+
+## Diagrama de secuencia 2
+
+![image](https://github.com/user-attachments/assets/5c5c1cda-d156-41bd-8c2b-b23c23c1b867)
